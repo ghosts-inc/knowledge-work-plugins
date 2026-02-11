@@ -1,0 +1,8 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "A simple test plugin that says hello. Used to verify plugin installation and customization workflows.",
+  "author": {
+    "name": "Ghost Inc"
+  }
+}
